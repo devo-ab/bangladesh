@@ -1,0 +1,36 @@
+/* font */
+.font-fira {
+    font-family: "Fira Sans", sans-serif;
+    font-style: normal;
+}
+
+.fs-f18 {
+    font-size: 18px;
+}
+
+/* font */
+
+/* color */
+.bd-green {
+    color: #006A4E;
+}
+
+
+.bd-red {
+    color: #DA291C;
+}
+
+
+.text-black {
+    color: #0E0E0E;
+}
+
+.text-green {
+    color: #006A50;
+}
+
+.b-green {
+    border-color: #006A50;
+}
+
+/* color */
