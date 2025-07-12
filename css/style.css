@@ -8,6 +8,10 @@
     font-size: 18px;
 }
 
+.fs-f56 {
+    font-size: 56px;
+}
+
 /* font */
 
 /* color */
@@ -29,8 +33,23 @@
     color: #006A50;
 }
 
+
 .b-green {
     border-color: #006A50;
 }
 
+.bg-banner {
+    background-color: #C6E4D6;
+}
+
+
 /* color */
+
+/* padding */
+
+.nav-banner-padding {
+    padding: 80px 100px;
+}
+
+
+/* padding */
