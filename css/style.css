@@ -79,6 +79,9 @@
         padding: 60px 60px;
         /* Tablets */
     }
+    .image{
+        width: 80%;
+    }
 }
 
 @media (min-width: 992px) {
