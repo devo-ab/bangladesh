@@ -86,6 +86,10 @@
         padding: 80px 100px;
         /* Large desktops */
     }
+
+    .image{
+        width: 80%;
+    }
 }
 
 /* responsive end */
