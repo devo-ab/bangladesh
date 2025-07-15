@@ -63,6 +63,11 @@
 
 /* padding */
 
+.no-focus:focus {
+  outline: none;
+  box-shadow: none;
+}
+
 
 /* responsive start */
 @media (min-width: 768px) {
