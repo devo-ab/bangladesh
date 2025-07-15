@@ -29,6 +29,7 @@
 ---
 
 ## 📁 Folder Structure
+```
 bangladesh/
 ├── assets/
 │   └── logo/               # Website logos or favicon
@@ -37,6 +38,8 @@ bangladesh/
 ├── images/                 # Image files
 ├── index.html              # Main single‑page content
 └── README.md               # Project documentation
+```
+
 
 
 
