@@ -31,12 +31,13 @@
 ## 📁 Folder Structure
 bangladesh/
 ├── assets/
-│ └── logo/ # Website logos or favicon
+│   └── logo/               # Website logos or favicon
 ├── css/
-│ └── style.css # Custom CSS styles
-├── images/ # Image files
-├── index.html # Main HTML file
-└── README.md # Project documentation
+│   └── style.css           # Custom CSS styles
+├── images/                 # Image files
+├── index.html              # Main single‑page content
+└── README.md               # Project documentation
+
 
 
 ---
