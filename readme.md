@@ -60,5 +60,11 @@ bangladesh/
    cd bangladesh
 
 👤 Author
-Avi Jit
-🌐 Live Website
+# Avi Jit
+## :mailbox: Reach me out
+<p align="left">
+<a href="https://linkedin.com/in/itsavijitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imavijit" height="30" width="40" /></a>
+<a href="https://twitter.com/itsavijitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realavi00" height="30" width="40" /></a>
+<a href="https://facebook.com/itsavijitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imavijit0" height="30" width="40" /></a>
+<a href="https://instagram.com/itsavijitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imavijit00" height="30" width="40" /></a>
+</p>
