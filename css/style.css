@@ -33,6 +33,10 @@
     color: #006A50;
 }
 
+.text-gray {
+    color: #0E0E0EB3;
+}
+
 
 .b-green {
     border-color: #006A50;
@@ -47,9 +51,32 @@
 
 /* padding */
 
-.nav-banner-padding {
+/* .nav-banner-padding {
     padding: 80px 100px;
+} */
+
+.nav-banner-padding {
+    padding: 30px 20px;
+    /* Mobile first */
 }
 
 
 /* padding */
+
+
+/* responsive start */
+@media (min-width: 768px) {
+    .nav-banner-padding {
+        padding: 60px 60px;
+        /* Tablets */
+    }
+}
+
+@media (min-width: 992px) {
+    .nav-banner-padding {
+        padding: 80px 100px;
+        /* Large desktops */
+    }
+}
+
+/* responsive end */
