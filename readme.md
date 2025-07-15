@@ -43,8 +43,8 @@ bangladesh/
 
 ## 📸 Screenshots
 
-![Hero](images/hero.png)
-![Footer](images/footer.png)
+![Hero](images/Banner.png)
+![Footer](images/Footer.png)
 ![Full Image](images/preview.png)
 ---
 
