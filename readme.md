@@ -1,6 +1,6 @@
 # Bangladesh — Single Page Website
 
-[🔗 Live Demo](https://bangladesh-eta.vercel.app/)
+[🔗 Live Demo](https://devo-ab.github.io/bangladesh)
 
 **Bangladesh** is a beautifully crafted **single-page website** designed to represent the culture, beauty, and identity of Bangladesh. Built using **HTML**, **Bootstrap 5**, and **custom CSS**, this responsive website highlights different aspects of the country in a clean and modern layout.
 
@@ -33,23 +33,22 @@
 ```
 bangladesh/
 ├── assets/
-│   └── logo/               # Website logos or favicon
-├── css/
-│   └── style.css           # Custom CSS styles
-├── images/                 # Image files
-├── index.html              # Main single‑page content
+│   ├── images/             # All image files used in the website
+│   ├── logo/               # Logo files
+├── css/                    # Stylesheets (style.css)
+├── preview/                # Screenshots for README
+├── index.html              # Main landing page
 └── README.md               # Project documentation
 ```
-
 ---
 
 ## 📸 Screenshots
 
 ### 🖼️ Hero Section
-![Hero](images/Banner.png)
+![Hero](./preview/Banner.png)
 
 ### 🖼️ Full Preview
-![Preview](images/preview.png)
+![Preview](./preview/preview.png)
 
 ---
 
